@@ -35,6 +35,6 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/kaze/kaze/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://raw.githubusercontent.com/egoistsh/egoistsh/blob/output/snake.svg" alt="Snake animation" />
 
 ###
