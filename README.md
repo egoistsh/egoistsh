@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/egoistsh/egoistsh/blob/output/snake.svg" alt="Snake animation" />
+[![snake](./assets/github-contribution-grid-snake.svg)](https://raw.githubusercontent.com/egoistsh/egoistsh/master/assets/github-contribution-grid-snake.svg)
+
 
 ###
